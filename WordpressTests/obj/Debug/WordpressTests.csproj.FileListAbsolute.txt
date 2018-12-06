@@ -1,0 +1,79 @@
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WordpressTests.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WordpressTests.pdb
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WordpressAutomation.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.Support.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WordpressAutomation.pdb
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.xml
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.Support.xml
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.csprojResolveAssemblyReference.cache
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.pdb
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\chromedriver.exe
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\chromedriver.exe
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WordpressTests.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WordpressTests.pdb
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WordpressAutomation.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.Support.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WordpressAutomation.pdb
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.xml
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\bin\Debug\WebDriver.Support.xml
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.csprojResolveAssemblyReference.cache
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.csproj.CoreCompileInputs.cache
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\ex_files\4-m3-2-smoke-exercise-files\demos\after\WordpressAutomation\WordpressTests\obj\Debug\WordpressTests.pdb
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\bin\Debug\chromedriver.exe
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\bin\Debug\WordpressTests.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\bin\Debug\WordpressTests.pdb
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\bin\Debug\WordpressAutomation.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\bin\Debug\WebDriver.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\bin\Debug\WebDriver.Support.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\bin\Debug\WordpressAutomation.pdb
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\bin\Debug\WebDriver.xml
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\bin\Debug\WebDriver.Support.xml
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\obj\Debug\WordpressTests.csprojResolveAssemblyReference.cache
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\obj\Debug\WordpressTests.dll
+C:\Users\kiset\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP\WordpressTests\obj\Debug\WordpressTests.pdb
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\chromedriver.exe
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WordpressTests.dll
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WordpressTests.pdb
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WordpressAutomation.dll
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WebDriver.dll
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WebDriver.Support.dll
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WordpressAutomation.pdb
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WebDriver.xml
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WebDriver.Support.xml
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\obj\Debug\WordpressTests.dll
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\obj\Debug\WordpressTests.pdb
+C:\_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\obj\Debug\WordpressTests.csprojResolveAssemblyReference.cache
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\chromedriver.exe
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WordpressTests.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WordpressTests.pdb
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WordpressAutomation.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WebDriver.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WebDriver.Support.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WordpressAutomation.pdb
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WebDriver.xml
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\bin\Debug\WebDriver.Support.xml
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\obj\Debug\WordpressTests.csprojResolveAssemblyReference.cache
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\obj\Debug\WordpressTests.csproj.CoreCompileInputs.cache
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\obj\Debug\WordpressTests.dll
+C:\Users\kiseta\Google Drive\Test\JohnSonmez_Selenium\WordpressAutomation_BKP_WRKNG\WordpressTests\obj\Debug\WordpressTests.pdb
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\bin\Debug\chromedriver.exe
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\bin\Debug\WordpressTests.dll
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\bin\Debug\WordpressTests.pdb
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\bin\Debug\WordpressAutomation.dll
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\bin\Debug\WebDriver.dll
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\bin\Debug\WebDriver.Support.dll
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\bin\Debug\WordpressAutomation.pdb
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\bin\Debug\WebDriver.xml
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\bin\Debug\WebDriver.Support.xml
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\obj\Debug\WordpressTests.csprojAssemblyReference.cache
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\obj\Debug\WordpressTests.csproj.CoreCompileInputs.cache
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\obj\Debug\WordpressTests.csproj.CopyComplete
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\obj\Debug\WordpressTests.dll
+C:\Users\kiset\Google Drive\Test\WordpressAutomation_MASTER\WordpressTests\obj\Debug\WordpressTests.pdb
